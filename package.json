@@ -1,0 +1,20 @@
+{
+  "name": "spambot",
+  "version": "1.0.0",
+  "description": "just spams shit",
+  "main": "start.js",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.6.2",
+    "querystring": "^0.2.0",
+    "readline-sync": "^1.4.8",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
